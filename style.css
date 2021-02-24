@@ -1,0 +1,20 @@
+
+
+
+button{
+    display: inline-block;
+	height: 50px;
+    line-height: 50px;
+    position: relative;
+    border: 1px solid white;
+    padding: 0 1rem;
+}
+body{
+	background-color: gray;
+}
+.knopka{
+	
+	display: flex;
+    align-items: center;
+    justify-content: center;
+}
